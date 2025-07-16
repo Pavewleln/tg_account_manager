@@ -1,3 +1,5 @@
+/data
+
 pycache/
 *.py[cod]
 *$py.class
@@ -19,3 +21,16 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+.venv
+venv/
+ENV/
+env/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+*.log
+*.sqlite3
